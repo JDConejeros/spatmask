@@ -1,0 +1,16 @@
+pkgdown:
+  title: spatmask
+  description: Spatial geomasking and anonymization tools for geographic data.
+  template:
+    bootstrap: 5
+  development:
+    mode: auto
+    version: devel
+  articles: []
+  home:
+    strip_header: true
+    links:
+      - text: Report a bug
+        href: https://github.com/JDConejeros/spatmask/issues
+      - text: Source code
+        href: https://github.com/JDConejeros/spatmask
